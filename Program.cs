@@ -9,9 +9,9 @@ class Lab1
         string newStr1 = "";
         String newStr2 = "";
         long sum = 0;
-        for (int i = 0; i < str.Length - 1; i++)
+        for (int i = 0; i < str.Length; i++)
         {
-            for (int j = i; j < str.Length - 1; j++)
+            for (int j = i+1; j < str.Length; j++)
             {
                 if (Char.IsDigit(str[i]))
                 {
@@ -22,11 +22,12 @@ class Lab1
 
                     if (str[i] == str[j] && j != i)
                     {
+                        newStr = str.Substring(i, j - i + 1);
                         long result;
                         long.TryParse(newStr, out result);
                         sum += result;
 
-                        newStr = str.Substring(i, j - i + 1);
+                        
                         newStr1 = str.Substring(0, str.IndexOf(newStr));
                         newStr2 = str.Substring(newStr.Length + newStr1.Length, (str.Length) - (newStr.Length + newStr1.Length));
                         Console.ForegroundColor = ConsoleColor.White;
