@@ -1,0 +1,13 @@
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\BLUEH\source\repos\Uppgifter\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
